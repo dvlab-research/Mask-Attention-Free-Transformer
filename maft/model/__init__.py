@@ -1,0 +1,1 @@
+from .maft import MAFT
