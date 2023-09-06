@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of **MAFT** (Mask-Attention-Free Transformer) (ICCV 2023).
 
-**Mask-Attention-Free Transformer for 3D Instance Segmentation** [\[Paper\]](https://github.com/dvlab-research/Mask-Attention-Free-Transformer/releases/download/v0.0/Mask-Attention-Free.Transformer.for.3D.Instance.Segmentation.pdf)
+**Mask-Attention-Free Transformer for 3D Instance Segmentation** [\[Paper\]](https://arxiv.org/pdf/2309.01692.pdf)
 
 Xin Lai, Yuhui Yuan, Ruihang Chu, Yukang Chen, Han Hu, Jiaya Jia 
 
